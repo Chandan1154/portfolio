@@ -1,0 +1,60 @@
+{
+  "name": "Chandan C C",
+  "title": "Full-Stack Developer",
+  "experience": [
+    {
+      "company": "TRUGlobal",
+      "role": "Software Engineer",
+      "years": "2023 - 2025",
+      "highlights": [
+        "Built backend services in Java/Kotlin",
+        "Designed UI features using React.js",
+        "Worked with Oracle / PostgreSQL",
+        "Used Docker, Kubernetes, Jenkins, and GCP deployments"
+      ]
+    }
+  ],
+  "skills": [
+    "Java", "Kotlin", "Spring Boot", "React.js", "PostgreSQL", "GCP", "Docker", "CI/CD"
+  ],
+  "projects": [
+    {
+        "name": "Cleanleaf Energy",
+        "role": "Frontend & Full-Stack Developer",
+        "technologies": ["React.js", "Salesforce", "JWT", "GCP", "REST APIs", "Code Optimization"],
+        "highlights": [
+            "Built high-performance React.js UI with optimized components and lazy loading.",
+            "Integrated Salesforce APIs for real-time data sync across platforms.",
+            "Implemented role-based JWT authentication for secure access control.",
+            "Deployed key components on GCP, ensuring scalability and 99.9% uptime.",
+            "Collaborated on RESTful API consumption with backend teams for seamless data flow."
+        ]
+    },
+    {
+        "name": "Sephora Project",
+        "role": "Full-Stack Developer",
+        "technologies": ["Java", "Spring Boot", "React.js", "Angular", "Docker", "Jenkins", "Kafka", "Kubernetes", "Azure", "Microservices", "CI/CD"],
+        "highlights": [
+            "Developed pricing API services with microservices architecture using Java & Spring Boot.",
+            "Containerized applications with Docker and orchestrated with Kubernetes.",
+            "Built CI/CD pipelines with Jenkins, reducing deployment time by 50%.",
+            "Integrated Kafka for event-driven communication, enhancing scalability.",
+            "Deployed apps on Azure Cloud, ensuring high availability.",
+            "Optimized APIs and services, reducing response times by 20%."
+        ]       
+    },
+    {
+        "name": "CredlePoint Project",
+        "role": "Lead React.js Developer & Backend Collaborator",
+        "technologies": ["React.js", "Python", "API Design", "Okta", "IAM", "Leadership"],
+        "highlights": [
+            "Led frontend architecture with React.js, creating scalable component libraries.",
+            "Designed & integrated RESTful APIs with Python backend.",
+            "Implemented Okta SSO authentication and robust access control.",
+            "Enhanced backend Python modules for authentication and security.",
+            "Mentored developers and conducted code reviews, improving code quality by 30%."
+        ]
+    }
+  ]
+}
+
