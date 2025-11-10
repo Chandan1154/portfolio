@@ -1,7 +1,7 @@
 import knowledge from "../data/chandan-ai-knowledge.json";
 
 export async function askChandanAI(question) {
-  const res = await fetch("https://vercel.com/chandan1154s-projects/server/ask-ai", {
+  const res = await fetch("https://server-alpha-olive.vercel.app/ask-ai", {
     method: "POST",
     headers: { "Content-Type": "application/json" },
     body: JSON.stringify({ question, knowledge }) 
