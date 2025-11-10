@@ -1,6 +1,5 @@
 import React from 'react';
 import { Link } from 'react-scroll';
-import { motion } from 'framer-motion';
 
 function Navbar() {
   return (
