@@ -13,7 +13,7 @@ export default function Hero() {
         <button className="px-6 py-2 border rounded-lg bg-blue-600 text-white hover:bg-blue-700">
           Hire Me
         </button>
-        <a href="https://drive.google.com/file/d/1zmDj2Ns3sxIHoU4k9wrjLIN8J5fpwfZt/view?usp=drive_link">
+        <a href="https://drive.google.com/file/d/1Ee0UKa6SC0MoUUTKCRAwAdoBJrbHi86D/view?usp=drive_link">
           <button className="px-6 py-2 border rounded-lg hover:bg-gray-200">
             Download Resume
           </button>
