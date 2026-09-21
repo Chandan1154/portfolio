@@ -6,7 +6,7 @@ export default function Hero() {
     >
       <h2 className="text-4xl font-bold mb-4">Hi, I'm Chandan C C</h2>
       <p className="text-lg text-gray-600 mb-6">
-        Full-Stack Developer | Founder of NOTNULL| Open Source Enthusiast
+        Full-Stack Developer | Founder of NOTNULLTECH | Open Source Enthusiast
       </p>
 
       <div className="flex gap-5">
